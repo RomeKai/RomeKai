@@ -16,6 +16,16 @@ I build products where AI proposes and deterministic code validates.
 
 ## 🚀 Featured projects
 
+### 🔭 [IntellOps](https://github.com/infraitgidas/intellops): predictive, UX-centric observability with open-source AI
+R&D project at GIDAS, UTN FRLP (InfraIT team). An AIOps platform that predicts incidents before users feel them. My work covers the ML data layer: synthetic event generation, hard negatives and leakage-free train/validation splits.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ML](https://img.shields.io/badge/ML-AIOps-FF6F00?style=flat-square)
+
+> Supervised practice (PS) · UTN FRLP 2026
+
 ### 🏠 [Maqet](https://github.com/RomeKai/maqet): measured technical assistance for families who build their own homes
 From a hand-drawn sketch to a staged shopping list of building materials in one visit. It measures rooms in AR, uses an AI agent that designs only through validated tools, and exports DXF files for professionals.
 
@@ -50,19 +60,17 @@ Lets you code with AI agents without burning your credits. It adds gateway spend
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ### 🐝 [Beebank](https://github.com/RomeKai/Homebanking-Beebank): full stack home banking
-Final project for the ITBA Full Stack Developer certification.
-
-### 🔭 [IntellOps](https://github.com/infraitgidas/intellops): predictive, UX-centric observability with open-source AI
-R&D project at GIDAS, UTN FRLP (InfraIT team). An AIOps platform that predicts incidents before users feel them. My work covers the ML data layer: synthetic event generation, hard negatives and leakage-free train/validation splits.
+A home banking web app with a Django REST API and a Next.js frontend. Customers register, check accounts and balances, request loans and make transfers. Database triggers keep balances consistent on every loan and transfer.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![ML](https://img.shields.io/badge/ML-AIOps-FF6F00?style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-> Supervised practice (PS) · UTN FRLP 2026
-
----
+> Final project · ITBA Full Stack Developer certification · 2023
 
 ## 🛠️ Tech stack
 
