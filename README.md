@@ -52,6 +52,16 @@ Lets you code with AI agents without burning your credits. It adds gateway spend
 ### 🐝 [Beebank](https://github.com/RomeKai/Homebanking-Beebank): full stack home banking
 Final project for the ITBA Full Stack Developer certification.
 
+### 🔭 [IntellOps](https://github.com/infraitgidas/intellops): predictive, UX-centric observability with open-source AI
+R&D project at GIDAS, UTN FRLP (InfraIT team). An AIOps platform that predicts incidents before users feel them. My work covers the ML data layer: synthetic event generation, hard negatives and leakage-free train/validation splits.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ML](https://img.shields.io/badge/ML-AIOps-FF6F00?style=flat-square)
+
+> Supervised practice (PS) · UTN FRLP 2026
+
 ---
 
 ## 🛠️ Tech stack
